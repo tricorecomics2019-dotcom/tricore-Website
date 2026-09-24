@@ -1,16 +1,8 @@
-html,
 body {
     margin: 0;
-    width: 100%;
-    height: 100%;
-}
-
-body {
+    min-height: 100vh;
     background-image: url("iron-man-robert-downey-jr-robert-downey-mladshiy-tony-stark-tony-stark-hd-wallpaper-preview.jpg");
-
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
-    min-height: 100vh;
 }
