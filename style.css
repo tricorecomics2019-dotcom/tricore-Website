@@ -7,13 +7,9 @@ body {
     background-repeat: no-repeat;
 }
 .top-title {
-    margin: 0;
-    padding-top: 30px;              /* Pushes text slightly down from the top edge */
+    padding-top: 540px;              /* Pushes text slightly down from the top edge */
     text-align: center;             /* Centers the text horizontally */
     color: #ffffff;                 /* Makes the text white so it stands out */
     font-family: Arial, sans-serif; /* Clean font choice */
     font-size: 2.5rem;              /* Adjust size as needed */
-    
-    /* Adds a subtle dark shadow so white text stays readable over lighter parts of the image */
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
 }
